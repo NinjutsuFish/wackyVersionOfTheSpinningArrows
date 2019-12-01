@@ -19,7 +19,7 @@ welp
 -also i m pretty sure certain combinations draw pictures just what they are is unknown
 
 
-# how to add arrow with doing anything
+# how to add arrow but like however you want it
 all you have to do is arrows.push_back(arrow([Turns per second goes here],[the length here]))
 
 however they are all random atm sooooooooooooooo it draws t r a s h
