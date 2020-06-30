@@ -1,9 +1,5 @@
 # What is this??
-Spinning arrows
-
-# using it
-just run it and it asks for how many lines
+Was originally an attempt at writing a propgramme for the discrete fourier transform at the time but my lack of understanding meant it ultimately became a c++ programme to draw lines which rotated. For an actually implemented version see my other github repo called Discrete Fourier Transford
 
 
-# how to add arrow but like however you want it
-all you have to do is arrows.push_back(arrow([Turns per second goes here],[the length here]))
+I am just keeping this here as a reference for using some libraries in c++.
